@@ -1,6 +1,6 @@
 # Customer Success Analytics
 
-> **End-to-end Data Science project** focused on **predicting client interactions, balancing CS portfolios, and monitoring team performance** with ML &Power BI dashboards.
+> **End-to-end Data Science project** focused on **predicting client interactions, balancing CS portfolios, and monitoring team performance** with ML & Power BI dashboards.
 
 ---
 
