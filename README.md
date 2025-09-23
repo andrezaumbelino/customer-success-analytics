@@ -10,19 +10,19 @@ The goal is to ensure **fair distribution of new clients**, **visibility into wo
 
 The project is divided into **three phases**:
 
-1. **Phase 1 — Automatic Distribution of New Clients**  
+1. **Phase 1: Automatic Distribution of New Clients**  
    - Predict total client interactions (emails + activities).  
    - Build a workload scoring system (interactions + family size).  
    - Implement automatic assignment of new clients to the most available CS.  
 
-2. **Phase 2 — Power BI Dashboard**  
+2. **Phase 2: Power BI Dashboard**  
    - Create a dashboard with three views:  
      - Portfolio by CS  
      - Client Analysis  
      - Automatic Distribution  
    - Provide actionable KPIs for managers and CSs.  
 
-3. **Phase 3 — Monthly CS Performance Analysis**  
+3. **Phase 3: Monthly CS Performance Analysis**  
    - Build a new dataset to monitor monthly CS performance (emails, activities, deals closed).  
    - Deliver a Power BI page with performance trends and comparisons across CSs.  
 
